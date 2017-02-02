@@ -48,10 +48,10 @@ $ sudo apt-get install oracle-java8-installer oracle-java8-set-default
 ```
 ***Install PhpStorm***
 ```sh
-wget http://download-cf.jetbrains.com/webide/PhpStorm-10.0.2.tar.gz
-tar -xvf PhpStorm-10.0.2.tar.gz
-cd PhpStorm-143.1184.87/bin/
-./phpstorm.sh
+$ wget http://download-cf.jetbrains.com/webide/PhpStorm-10.0.2.tar.gz
+$ tar -xvf PhpStorm-10.0.2.tar.gz
+$ cd PhpStorm-143.1184.87/bin/
+$ ./phpstorm.sh
 ```
 
 #### sublime text 3
